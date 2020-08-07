@@ -23,7 +23,7 @@ pipeline {
 
         stage('Test-Chrome') {
           steps {
-            echo 'Chrome'
+            echo 'Chrome1111'
           }
         }
 
